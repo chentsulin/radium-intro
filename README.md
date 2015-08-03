@@ -1,6 +1,7 @@
-## Radium Demo
+## Radium Intro
 
 > A introduction about Radium
-> Radium 中文介紹
 
-http://chentsulin.github.io/radium-demo
+中文 Radium 簡介
+
+http://chentsulin.github.io/radium-intro
